@@ -19,13 +19,30 @@ img {
 
 .textbeer {
   font-size: larger;
-  font-weight: lighter;
+  font-family: "Roboto", sans-serif;
+  color: rgb(51, 51, 51);
   text-align: center;
   background-color: white;
-  opacity: 70%;
+  opacity: 80%;
   width: 40%;
-  height: 190px;
+  height: 220px;
   margin: auto;
+  margin-top: 40px;
   padding: 10px;
   border: 10px solid black;
+}
+
+.form {
+  font-size: larger;
+  font-family: "Roboto", sans-serif;
+  color: rgb(51, 51, 51);
+  text-align: center;
+  background-color: white;
+  opacity: 90%;
+  width: 40%;
+  height: 230px;
+  margin: auto;
+  margin-top: 40px;
+  padding: 10px;
+  border: 1px solid black;
 }
